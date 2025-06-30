@@ -1,0 +1,3 @@
+function customhook(){
+    return 'hello'
+}
